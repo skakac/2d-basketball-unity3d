@@ -1,0 +1,293 @@
+fileFormatVersion: 2
+guid: 0cbb98fc45e85c142bce878619305cc0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mics_0
+    21300002: mics_1
+    21300004: mics_2
+    21300006: trick_shot
+    21300008: mics_4
+    21300010: mics_5
+    21300012: mics_6
+    21300014: mics_7
+    21300016: mics_8
+    21300018: mics_9
+    21300020: mics_10
+    21300022: mics_11
+    21300024: clear_shot
+    21300026: shadow
+    21300028: dot
+    21300030: rim_top
+    21300032: rim_bottom
+    21300034: basketball
+    21300036: net_1
+    21300038: net_2
+    21300040: net_3
+    21300042: net_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 48
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: mics_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 454
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mics_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 453
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mics_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 452
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trick_shot
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 420
+        width: 157
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mics_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 382
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mics_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 380
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mics_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 380
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mics_7
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 310
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mics_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 308
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mics_9
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 308
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mics_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 236
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mics_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 148
+        width: 133
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: clear_shot
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 42
+        width: 162
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: shadow
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 4
+        width: 65
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dot
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 356
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rim_top
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 383
+        width: 52
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rim_bottom
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 350
+        width: 45
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: basketball
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 120
+        width: 124
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: net_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 399
+        width: 115
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: net_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 290
+        width: 115
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: net_3
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 183
+        width: 113
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: net_4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 69
+        width: 115
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

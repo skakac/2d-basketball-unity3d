@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: d0073b03da657ef48a8a6fa7874b1afc
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - score_text: {instanceID: 0}
+  - basketball: {fileID: 100000, guid: 8018191d0a1a0c94ab1d8f68b25cdc74, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

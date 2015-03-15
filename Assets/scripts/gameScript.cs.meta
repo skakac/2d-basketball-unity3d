@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 649e16dfd4ba52743970ed2323bada50
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - net1: {instanceID: 0}
+  - net2: {instanceID: 0}
+  - rim_hit: {instanceID: 0}
+  - ground1: {instanceID: 0}
+  - ground2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
