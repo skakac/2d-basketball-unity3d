@@ -1,7 +1,8 @@
 # 2D Ball Shootout Unity3d [Source Code]
 
 If you have any questions -> http://twitter.com/skakac
-
+<br /><br />
+https://play.google.com/store/apps/details?id=com.skakac.bshootout
 Ball Shootout game <br />
 Super simple basketball game, using popular idea with some changes.<br />
 You can try out 2 player multiplayer mode, and compete on global leaderboard.<br />
