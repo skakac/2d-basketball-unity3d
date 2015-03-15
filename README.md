@@ -1,6 +1,6 @@
 # 2D Ball Shootout Unity3d [Source Code]
 
-If you have any question -> http://twitter.com/skakac
+If you have any questions -> http://twitter.com/skakac
 
 Ball Shootout game <br />
 Super simple basketball game, using popular idea with some changes.<br />
